@@ -41,4 +41,8 @@ The Hall sensors' + leads are connected to 3.3V. The rest of the pin numbers are
 
 ![Internals of the trackball](images/internals1.jpg)
 
+Or with colors:
+
+![Internals of the trackball](images/internals1wc.jpg)
+
 ![Internals of the trackball](images/internals2.jpg)
